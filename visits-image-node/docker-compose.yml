@@ -1,0 +1,9 @@
+version: '3'
+services:
+  redis-server:
+    image: 'redis'
+  node-app:
+    restart: always #no, on-failure (if exit code is not 0), unless-stoped
+    build: .
+    ports:
+      - "4001:8081" # to open access to ports on local machine

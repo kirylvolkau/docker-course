@@ -1,0 +1,4 @@
+# Good practice to ignore those files
+docker.sh
+docker-compose.yml
+Dockerfile
