@@ -6,7 +6,7 @@ This repository contains folders with `Dockerfile`s, server side web apps in `C#
 <br/>
 To run something:
 ```
-git clone ...
+git clone https://github.com/kirylvolkau/docker-course.git
 cd [folder-name]
 [z|ba]sh docker.sh
 ```
