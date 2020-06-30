@@ -12,4 +12,4 @@ cd [folder-name]
 ```
 ## Part 2
 It has multiple repositories, links and short descriptions to which are provided below:
-* [docker-react](https://github.com/kirylvolkau/docker-react) : default React application, Travis CI, deployed to AWS.
+* [docker-react](https://github.com/kirylvolkau/docker-react) : default React application + Nginx, Travis CI, deployed to AWS.
